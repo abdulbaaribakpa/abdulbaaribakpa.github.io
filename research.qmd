@@ -5,7 +5,7 @@ title: "Research"
 ## Master's Thesis (in progress)
 
 ### Market Access and Forest Loss in Ghana
-*Sciences Po, Paris — Supervisor: Prof. Clément Imbert*
+*Sciences Po, Paris — Supervisor: [Prof. Clément Imbert](https://sites.google.com/site/clemimbert/)*
 
 My ongoing master's thesis studies how road-induced changes in market access affect forest loss. The project combines a structural trade framework with satellite data, road-network travel times, and a district-year panel for Ghana from 2001 to 2021. Using an instrumental-variable strategy, I examine whether improved connectivity increases pressure to clear land or instead supports agricultural intensification on existing farmland. Preliminary results suggest that better market access reduces forest loss, partly by increasing the use of modern agricultural inputs rather than expanding cultivated area.
 

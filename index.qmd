@@ -21,7 +21,7 @@ about:
 
 ## Welcome
 
-I am a graduate student in the **MRes in Economics** at **Sciences Po, Paris**, where I am supervised by **Prof. Clément Imbert**. I previously completed a BA in Economics at **Kwame Nkrumah University of Science and Technology (KNUST)** in Ghana.
+I am a graduate student in the **MRes in Economics** at **Sciences Po, Paris**, where I am supervised by **[Prof. Clément Imbert](https://sites.google.com/site/clemimbert/)**. I previously completed a BA in Economics at **Kwame Nkrumah University of Science and Technology (KNUST)** in Ghana.
 
 My research sits at the intersection of **development, environmental, and trade economics**, with an empirical focus on Sub-Saharan Africa. I am particularly interested in how infrastructure, market integration, and public policy shape land use, deforestation, agricultural production, and structural transformation.
 
@@ -35,5 +35,5 @@ My research sits at the intersection of **development, environmental, and trade 
 
 - **Apr 2026** — Working on the job-market version of *The Price of Connection: Market Access and Forest Loss in Ghana*.
 - **2025** — Co-authored paper *"Environmental Pollution Training and Firms' Actions"* submitted for review.
-- **Apr–Sept 2025** — Worked as a Research Assistant to Prof. Clément Imbert at Sciences Po on forest-protection policies in Africa.
+- **Apr–Sept 2025** — Worked as a Research Assistant to [Prof. Clément Imbert](https://sites.google.com/site/clemimbert/) at Sciences Po on forest-protection policies in Africa.
 - **Aug 2024** — Started the MRes in Economics at Sciences Po as a Mastercard Foundation Scholar.
