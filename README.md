@@ -1,8 +1,8 @@
-# BakpaAbdul.github.io
+# abdulbaaribakpa.github.io
 
 Personal academic website of **Abdul Baari Bakpa**, built with [Quarto](https://quarto.org).
 
-Live site: https://bakpaabdul.github.io
+Live site: https://abdulbaaribakpa.github.io
 
 ## Local development
 

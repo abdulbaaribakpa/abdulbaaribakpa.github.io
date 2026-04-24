@@ -11,7 +11,7 @@ I study how improvements in domestic market access affect non-cocoa, non-mining 
 
 **Methods:** structural trade model, panel IV, recentered instruments, Google Earth Engine, high-resolution land-cover data.
 
-[Draft (coming soon)](#) · [Slides](#) · [Code](https://github.com/BakpaAbdul)
+[Draft (coming soon)](#) · [Slides](#) · [Code](https://github.com/abdulbaaribakpa)
 
 ---
 
@@ -24,4 +24,4 @@ I study how improvements in domestic market access affect non-cocoa, non-mining 
 
 ## Data & Code
 
-Replication materials for completed projects will be posted here and on my [GitHub](https://github.com/BakpaAbdul).
+Replication materials for completed projects will be posted here and on my [GitHub](https://github.com/abdulbaaribakpa).

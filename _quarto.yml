@@ -5,8 +5,8 @@ project:
 website:
   title: "Abdul Baari Bakpa"
   description: "Personal academic website of Abdul Baari Bakpa"
-  site-url: https://bakpaabdul.github.io
-  repo-url: https://github.com/BakpaAbdul/BakpaAbdul.github.io
+  site-url: https://abdulbaaribakpa.github.io
+  repo-url: https://github.com/abdulbaaribakpa/abdulbaaribakpa.github.io
   navbar:
     left:
       - href: index.qmd
@@ -21,7 +21,7 @@ website:
         text: Contact
     right:
       - icon: github
-        href: https://github.com/BakpaAbdul
+        href: https://github.com/abdulbaaribakpa
       - icon: envelope
         href: mailto:abdulbaari.bakpa@sciencespo.fr
   page-footer:

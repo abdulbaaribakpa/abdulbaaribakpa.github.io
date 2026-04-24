@@ -10,7 +10,7 @@ about:
       href: mailto:abdulbaari.bakpa@sciencespo.fr
     - icon: github
       text: GitHub
-      href: https://github.com/BakpaAbdul
+      href: https://github.com/abdulbaaribakpa
     - icon: mortarboard-fill
       text: Google Scholar
       href: "#"
