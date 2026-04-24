@@ -32,6 +32,6 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
     fontsize: 1.05em
     linestretch: 1.6
