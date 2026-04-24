@@ -125,7 +125,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="mailto:abdulbaari.bakpa@sciencespo.fr"> <i class="bi bi-envelope" role="img">
+    <a class="nav-link" href="./contact.html"> <i class="bi bi-envelope" role="img" aria-label="Contact">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -233,17 +233,30 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="references" class="level2">
 <h2 class="anchored" data-anchor-id="references">References</h2>
-<p><strong><a href="https://sites.google.com/site/clemimbert/">Prof.&nbsp;Clément Imbert</a></strong> — Sciences Po, Paris — <a href="mailto:clement.imbert@sciencespo.fr">clement.imbert@sciencespo.fr</a></p>
-<p><strong><a href="https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/453ee50a0c98.html">Dr.&nbsp;Paul Owusu Takyi</a></strong> — KNUST, Ghana — <a href="mailto:paul.takyi@knust.edu.gh">paul.takyi@knust.edu.gh</a></p>
+<p><strong><a href="https://sites.google.com/site/clemimbert/">Prof.&nbsp;Clément Imbert</a></strong> — Sciences Po, Paris — <a class="protected-email" data-u="clement.imbert" data-d="sciencespo.fr"></a></p>
+<p><strong><a href="https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/453ee50a0c98.html">Dr.&nbsp;Paul Owusu Takyi</a></strong> — KNUST, Ghana — <a class="protected-email" data-u="paul.takyi" data-d="knust.edu.gh"></a></p>
 </section>
 <section id="contact" class="level2">
 <h2 class="anchored" data-anchor-id="contact">Contact</h2>
-<p><a href="mailto:abdulbaari.bakpa@sciencespo.fr">abdulbaari.bakpa@sciencespo.fr</a></p>
+<p><a class="protected-email" data-u="abdulbaari.bakpa" data-d="sciencespo.fr"></a></p>
 
 
 </section>
 
 </main> <!-- /main -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.protected-email').forEach(function(el) {
+    var u = el.dataset.u;
+    var d = el.dataset.d;
+    if (!u || !d) return;
+    var email = u + '\u0040' + d;
+    var label = el.dataset.label || email;
+    el.textContent = label;
+    el.setAttribute('href', 'mailto:' + email);
+  });
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

@@ -4,8 +4,8 @@ title: "Contact"
 
 The best way to reach me is by email.
 
-- **Academic email:** [abdulbaari.bakpa@sciencespo.fr](mailto:abdulbaari.bakpa@sciencespo.fr)
-- **Personal email:** [abdulbaaribakpa@gmail.com](mailto:abdulbaaribakpa@gmail.com)
+- **Academic email:** <a class="protected-email" data-u="abdulbaari.bakpa" data-d="sciencespo.fr"></a>
+- **Personal email:** <a class="protected-email" data-u="abdulbaaribakpa" data-d="gmail.com"></a>
 - **LinkedIn:** [abdul-baari-bakpa](https://www.linkedin.com/in/abdul-baari-bakpa/)
 - **GitHub:** [abdulbaaribakpa](https://github.com/abdulbaaribakpa)
 

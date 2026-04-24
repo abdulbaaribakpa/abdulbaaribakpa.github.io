@@ -1,0 +1,13 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.protected-email').forEach(function(el) {
+    var u = el.dataset.u;
+    var d = el.dataset.d;
+    if (!u || !d) return;
+    var email = u + '\u0040' + d;
+    var label = el.dataset.label || email;
+    el.textContent = label;
+    el.setAttribute('href', 'mailto:' + email);
+  });
+});
+</script>

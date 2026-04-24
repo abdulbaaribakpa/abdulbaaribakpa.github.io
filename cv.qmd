@@ -68,10 +68,10 @@ Supervisor: [Dr. Paul Owusu Takyi](https://webapps.knust.edu.gh/staff/dirsearch/
 
 ## References
 
-**[Prof. Clément Imbert](https://sites.google.com/site/clemimbert/)** — Sciences Po, Paris — [clement.imbert@sciencespo.fr](mailto:clement.imbert@sciencespo.fr)
+**[Prof. Clément Imbert](https://sites.google.com/site/clemimbert/)** — Sciences Po, Paris — <a class="protected-email" data-u="clement.imbert" data-d="sciencespo.fr"></a>
 
-**[Dr. Paul Owusu Takyi](https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/453ee50a0c98.html)** — KNUST, Ghana — [paul.takyi@knust.edu.gh](mailto:paul.takyi@knust.edu.gh)
+**[Dr. Paul Owusu Takyi](https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/453ee50a0c98.html)** — KNUST, Ghana — <a class="protected-email" data-u="paul.takyi" data-d="knust.edu.gh"></a>
 
 ## Contact
 
-[abdulbaari.bakpa@sciencespo.fr](mailto:abdulbaari.bakpa@sciencespo.fr)
+<a class="protected-email" data-u="abdulbaari.bakpa" data-d="sciencespo.fr"></a>

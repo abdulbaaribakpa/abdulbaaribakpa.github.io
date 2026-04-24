@@ -125,7 +125,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="mailto:abdulbaari.bakpa@sciencespo.fr"> <i class="bi bi-envelope" role="img">
+    <a class="nav-link" href="./contact.html"> <i class="bi bi-envelope" role="img" aria-label="Contact">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -179,6 +179,19 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.protected-email').forEach(function(el) {
+    var u = el.dataset.u;
+    var d = el.dataset.d;
+    if (!u || !d) return;
+    var email = u + '\u0040' + d;
+    var label = el.dataset.label || email;
+    el.textContent = label;
+    el.setAttribute('href', 'mailto:' + email);
+  });
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

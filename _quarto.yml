@@ -25,7 +25,8 @@ website:
       - icon: github
         href: https://github.com/abdulbaaribakpa
       - icon: envelope
-        href: mailto:abdulbaari.bakpa@sciencespo.fr
+        href: contact.html
+        aria-label: Contact
   page-footer:
     left: "© 2026 Abdul Baari Bakpa"
     right: "Built with [Quarto](https://quarto.org)"
@@ -37,3 +38,4 @@ format:
     toc: false
     fontsize: 1.05em
     linestretch: 1.6
+    include-after-body: email-protect.html
