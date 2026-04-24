@@ -1,0 +1,32 @@
+---
+title: "CV"
+---
+
+A PDF version of my CV is available [here](cv.pdf) *(upload `cv.pdf` to the site root to enable this link).*
+
+## Education
+
+- **MA in Economics**, Sciences Po, Paris — *2025–present*
+- **BA**, *(your undergraduate institution and year)*
+
+## Research Experience
+
+- *(Add RA positions, pre-doc roles, internships)*
+
+## Teaching
+
+- *(Add teaching assistantships, tutorials, etc.)*
+
+## Honors & Fellowships
+
+- *(Awards, scholarships)*
+
+## Skills
+
+- **Languages:** English (native), French, *(others)*
+- **Programming:** R, Stata, Python, Google Earth Engine, Quarto, Git
+- **Methods:** Panel IV, structural trade modelling, spatial analysis, remote sensing
+
+## Contact
+
+abdulbaari.bakpa@sciencespo.fr

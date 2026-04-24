@@ -1,0 +1,38 @@
+---
+title: "Abdul Baari Bakpa"
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:abdulbaari.bakpa@sciencespo.fr
+    - icon: github
+      text: GitHub
+      href: https://github.com/BakpaAbdul
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: "#"
+    - icon: linkedin
+      text: LinkedIn
+      href: "#"
+---
+
+## Welcome
+
+I am a graduate student in economics at **Sciences Po, Paris**. My research sits at the intersection of **development economics, trade, and environmental economics**, with a focus on Sub-Saharan Africa.
+
+My current work studies how **market access shapes deforestation** in Ghana, combining a structural trade model with high-resolution satellite data and a panel instrumental-variable strategy.
+
+## Research Interests
+
+- Development economics
+- Trade and spatial economics
+- Environmental and natural-resource economics
+- Applied econometrics & remote sensing
+
+## News
+
+- **Apr 2026** — Working on the job-market version of my paper on market access and forest loss in Ghana.
+- **2025** — Joined the MA in Economics at Sciences Po.

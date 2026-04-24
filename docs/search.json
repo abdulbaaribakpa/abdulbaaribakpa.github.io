@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "A PDF version of my CV is available here (upload cv.pdf to the site root to enable this link)."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nMA in Economics, Sciences Po, Paris — 2025–present\nBA, (your undergraduate institution and year)"
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "CV",
+    "section": "Research Experience",
+    "text": "Research Experience\n\n(Add RA positions, pre-doc roles, internships)"
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "CV",
+    "section": "Teaching",
+    "text": "Teaching\n\n(Add teaching assistantships, tutorials, etc.)"
+  },
+  {
+    "objectID": "cv.html#honors-fellowships",
+    "href": "cv.html#honors-fellowships",
+    "title": "CV",
+    "section": "Honors & Fellowships",
+    "text": "Honors & Fellowships\n\n(Awards, scholarships)"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\n\nLanguages: English (native), French, (others)\nProgramming: R, Stata, Python, Google Earth Engine, Quarto, Git\nMethods: Panel IV, structural trade modelling, spatial analysis, remote sensing"
+  },
+  {
+    "objectID": "cv.html#contact",
+    "href": "cv.html#contact",
+    "title": "CV",
+    "section": "Contact",
+    "text": "Contact\nabdulbaari.bakpa@sciencespo.fr"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "The best way to reach me is by email.\n\nAcademic: abdulbaari.bakpa@sciencespo.fr\nPersonal: abdulbaaribakpa@gmail.com\nGitHub: BakpaAbdul\n\nAffiliation: Department of Economics, Sciences Po, Paris."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "(Add courses you have TA’d, with year, instructor, and institution.)"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistantships",
+    "href": "teaching.html#teaching-assistantships",
+    "title": "Teaching",
+    "section": "",
+    "text": "(Add courses you have TA’d, with year, instructor, and institution.)"
+  },
+  {
+    "objectID": "teaching.html#tutorials-notes",
+    "href": "teaching.html#tutorials-notes",
+    "title": "Teaching",
+    "section": "Tutorials & Notes",
+    "text": "Tutorials & Notes\n(Optional: post lecture notes, problem-set solutions, or short tutorials here.)\n\nThis page is a placeholder — I will update it as I take on teaching assignments."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Job Market Paper (in progress, 2026)\nI study how improvements in domestic market access affect non-cocoa, non-mining forest loss in Ghana between 2001 and 2021. I build a structural trade model linking district-level prices to a market-access index, and identify causal effects using a recentered instrumental variable that exploits plausibly exogenous variation in transport-cost shocks.\nMethods: structural trade model, panel IV, recentered instruments, Google Earth Engine, high-resolution land-cover data.\nDraft (coming soon) · Slides · Code"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Job Market Paper (in progress, 2026)\nI study how improvements in domestic market access affect non-cocoa, non-mining forest loss in Ghana between 2001 and 2021. I build a structural trade model linking district-level prices to a market-access index, and identify causal effects using a recentered instrumental variable that exploits plausibly exogenous variation in transport-cost shocks.\nMethods: structural trade model, panel IV, recentered instruments, Google Earth Engine, high-resolution land-cover data.\nDraft (coming soon) · Slides · Code"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\nLong-difference and event-study evidence on the market access–deforestation link.\nComparing population data sources for spatial analysis in Ghana (GSS census vs. WorldPop vs. GPW)."
+  },
+  {
+    "objectID": "research.html#data-code",
+    "href": "research.html#data-code",
+    "title": "Research",
+    "section": "Data & Code",
+    "text": "Data & Code\nReplication materials for completed projects will be posted here and on my GitHub."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Abdul Baari Bakpa",
+    "section": "",
+    "text": "I am a graduate student in economics at Sciences Po, Paris. My research sits at the intersection of development economics, trade, and environmental economics, with a focus on Sub-Saharan Africa.\nMy current work studies how market access shapes deforestation in Ghana, combining a structural trade model with high-resolution satellite data and a panel instrumental-variable strategy."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Abdul Baari Bakpa",
+    "section": "",
+    "text": "I am a graduate student in economics at Sciences Po, Paris. My research sits at the intersection of development economics, trade, and environmental economics, with a focus on Sub-Saharan Africa.\nMy current work studies how market access shapes deforestation in Ghana, combining a structural trade model with high-resolution satellite data and a panel instrumental-variable strategy."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Abdul Baari Bakpa",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nDevelopment economics\nTrade and spatial economics\nEnvironmental and natural-resource economics\nApplied econometrics & remote sensing"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Abdul Baari Bakpa",
+    "section": "News",
+    "text": "News\n\nApr 2026 — Working on the job-market version of my paper on market access and forest loss in Ghana.\n2025 — Joined the MA in Economics at Sciences Po."
+  }
+]

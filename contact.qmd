@@ -1,0 +1,11 @@
+---
+title: "Contact"
+---
+
+The best way to reach me is by email.
+
+- **Academic:** [abdulbaari.bakpa@sciencespo.fr](mailto:abdulbaari.bakpa@sciencespo.fr)
+- **Personal:** [abdulbaaribakpa@gmail.com](mailto:abdulbaaribakpa@gmail.com)
+- **GitHub:** [BakpaAbdul](https://github.com/BakpaAbdul)
+
+**Affiliation:** Department of Economics, Sciences Po, Paris.

@@ -1,0 +1,26 @@
+/* Light academic styling */
+
+body {
+  font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: "Source Serif Pro", Georgia, serif;
+  font-weight: 600;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.quarto-about-trestles .about-entity .about-link {
+  border: 1px solid #ddd;
+}
