@@ -2,6 +2,12 @@
 title: "CV"
 ---
 
+<style>
+main p, main li { font-size: 0.9rem; line-height: 1.5; }
+main h3 { font-size: 1.1rem; }
+main h2 { font-size: 1.5rem; }
+</style>
+
 A PDF version of my CV is available [here](cv.pdf).
 
 ## Education
