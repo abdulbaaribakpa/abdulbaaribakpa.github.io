@@ -23,9 +23,9 @@ about:
 
 I am a graduate student in the **MRes in Economics** at **Sciences Po, Paris**, where I am supervised by **Prof. Clément Imbert**. I previously completed a BA in Economics at **Kwame Nkrumah University of Science and Technology (KNUST)** in Ghana.
 
-My research sits at the intersection of **development, environmental, and trade economics**, with an empirical focus on Sub-Saharan Africa. I am particularly interested in how infrastructure, market integration, and policy shape land use, deforestation, and structural transformation.
+My research sits at the intersection of **development, environmental, and trade economics**, with an empirical focus on Sub-Saharan Africa. I am particularly interested in how infrastructure, market integration, and public policy shape land use, deforestation, agricultural production, and structural transformation.
 
-My ongoing master's thesis, *The Price of Connection: Market Access and Forest Loss in Ghana*, combines a structural trade model with high-resolution satellite data and a panel instrumental-variable strategy to estimate the causal effect of market access on non-cocoa, non-mining forest loss.
+My ongoing master's thesis, *Market Access and Forest Loss in Ghana*, studies how road-induced changes in market access affect forest loss. The project combines a structural trade framework with satellite data, road-network travel times, and a district-year panel for Ghana from 2001 to 2021. Using an instrumental-variable strategy, I examine whether improved connectivity increases pressure to clear land or instead supports agricultural intensification on existing farmland. Preliminary results suggest that better market access reduces forest loss, partly by increasing the use of modern agricultural inputs rather than expanding cultivated area.
 
 ## Research Interests
 
