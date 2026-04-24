@@ -2,23 +2,36 @@
 title: "Research"
 ---
 
-## Working Papers
+## Master's Thesis (in progress)
 
-### Market Access and Deforestation: Evidence from Ghana
-*Job Market Paper (in progress, 2026)*
+### The Price of Connection: Market Access and Forest Loss in Ghana
+*Sciences Po, Paris — Supervisor: Prof. Clément Imbert*
 
-I study how improvements in domestic market access affect non-cocoa, non-mining forest loss in Ghana between 2001 and 2021. I build a structural trade model linking district-level prices to a market-access index, and identify causal effects using a recentered instrumental variable that exploits plausibly exogenous variation in transport-cost shocks.
+I study how improvements in domestic market access affect non-cocoa, non-mining forest loss in Ghana between 2001 and 2021. The empirical strategy combines a structural trade model that links district-level prices to a market-access index with a panel instrumental-variable approach using a recentered instrument that exploits plausibly exogenous variation in transport-cost shocks.
 
-**Methods:** structural trade model, panel IV, recentered instruments, Google Earth Engine, high-resolution land-cover data.
+**Methods:** structural trade modelling · panel IV with recentered instruments · Google Earth Engine · high-resolution land-cover data.
 
-[Draft (coming soon)](#) · [Slides](#) · [Code](https://github.com/abdulbaaribakpa)
+[Slides](#) · [Code](https://github.com/abdulbaaribakpa)
 
 ---
 
-## Work in Progress
+## Working & Submitted Papers
 
-- *Long-difference and event-study evidence on the market access–deforestation link.*
-- *Comparing population data sources for spatial analysis in Ghana (GSS census vs. WorldPop vs. GPW).*
+### Environmental Pollution Training and Firms' Actions: The Mediating Role of Green Industrialization Knowledge
+*With Emmanuel Orkoh, Nicholas Agyei, and Abdulrazaq Daudu* — **Submitted**
+
+### Financial Development and Sectoral Growth in Ghana
+*With Kodom Emmanuel* — **Working paper**
+
+### The Political Economy of Government Agricultural Input Credit: Game-Theoretic Insights from Ghana's Planting for Food and Jobs Program
+*Term paper*
+
+---
+
+## Undergraduate Thesis
+
+### Financial Development and Sectoral Development
+*KNUST, Ghana (2023) — Supervisor: Dr. Paul Owusu Takyi*
 
 ---
 

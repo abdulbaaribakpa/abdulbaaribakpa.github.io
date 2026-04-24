@@ -2,31 +2,76 @@
 title: "CV"
 ---
 
-A PDF version of my CV is available [here](cv.pdf) *(upload `cv.pdf` to the site root to enable this link).*
+A PDF version of my CV is available [here](cv.pdf).
 
 ## Education
 
-- **MA in Economics**, Sciences Po, Paris — *2025–present*
-- **BA**, *(your undergraduate institution and year)*
+**MRes in Economics** — Sciences Po, Paris *(Aug 2024 – Jun 2026)*
+Thesis (in progress): *The Price of Connection: Market Access and Forest Loss in Ghana*
+Supervisor: Prof. Clément Imbert
+
+**BA in Economics** — Kwame Nkrumah University of Science and Technology (KNUST), Ghana *(Sep 2019 – Nov 2023)*
+Undergraduate thesis: *Financial Development and Sectoral Development*
+Supervisor: Dr. Paul Owusu Takyi
 
 ## Research Experience
 
-- *(Add RA positions, pre-doc roles, internships)*
+**Research Assistant** — Department of Economics, Sciences Po *(Apr 2025 – Sept 2025)*
+
+- Designed and executed causal-inference analyses using staggered Difference-in-Differences and event-study models in R to estimate the impact of forest-protection policies on climate-relevant outcomes.
+- Constructed a structured, subnational policy database for Africa from systematic literature reviews, government documents, and NGO publications.
+- Managed and processed large-scale geospatial datasets (WDPA, satellite-derived tree-cover loss).
+- Performed geospatial mapping and georeferencing of policy locations across African countries.
+
+**Research & Teaching Assistant** — Department of Economics, KNUST *(Nov 2023 – Aug 2024)*
+
+- Coordinated household-survey fieldwork for a willingness-to-pay study (enumerator supervision, respondent tracking, quality checks).
+- Cleaned and merged primary survey data with the Ghana Living Standards Survey (GLSS) for microeconometric analysis in Stata.
+- Collected firm-level data on commercial water use and combined field surveys with municipal administrative records.
+- Led tutorial sessions in *Mathematics for Economists* and supported assessment through grading and feedback.
+- Conducted systematic literature reviews and coordinated weekly departmental research seminars.
+
+**Research Assistant** — Kumasi Hive, Kumasi *(Oct 2022 – Dec 2022)*
+
+- Developed and fielded research questionnaires producing a clean dataset of 100 observations.
+- Performed data cleaning and quality checks for econometric analysis.
+- Built a reporting framework to track key performance indicators.
 
 ## Teaching
 
-- *(Add teaching assistantships, tutorials, etc.)*
+**High School Teacher (part-time)** — One Time Educational Consult, Kumasi *(Aug 2023 – Jul 2024)*
 
-## Honors & Fellowships
+- Taught Senior High Level Economics; designed customised lesson plans; monitored progress through regular assessments.
 
-- *(Awards, scholarships)*
+## Community Service
 
-## Skills
+- **UST Info Hub Facilitator** *(2022/2023)* — advised 200+ prospective students on applications and mentored incoming students.
+- **Literacy Impact Programme Mentor** *(Apr – Dec 2023)* — led literacy tutorials for basic-school pupils.
+- **Momua Project** *(Dec 2021)* — trained 20 women in soap-making and secured funding for 13 microbusinesses.
 
-- **Languages:** English (native), French, *(others)*
-- **Programming:** R, Stata, Python, Google Earth Engine, Quarto, Git
-- **Methods:** Panel IV, structural trade modelling, spatial analysis, remote sensing
+## Scholarships & Awards
+
+- **Mastercard Foundation Scholars Program** — Sciences Po *(2024 – 2026)*
+- **Mastercard Foundation Scholars Program** — KNUST *(2019 – 2023)*
+- **Best Student** — Kanton Senior High School *(2018)*
+
+## Technical Skills
+
+- **Statistical & Econometric Software:** R, Stata, Julia, EViews
+- **Geospatial & Data Tools:** QGIS, Google Earth Engine, Excel, Git/GitHub
+- **Document Production:** LaTeX, Quarto, Microsoft Office Suite, Google Workspace
+
+## Languages
+
+- English (fluent)
+- French (intermediate)
+
+## References
+
+**Prof. Clément Imbert** — Sciences Po, Paris — [clement.imbert@sciencespo.fr](mailto:clement.imbert@sciencespo.fr)
+
+**Dr. Paul Owusu Takyi** — KNUST, Ghana — [paul.takyi@knust.edu.gh](mailto:paul.takyi@knust.edu.gh)
 
 ## Contact
 
-abdulbaari.bakpa@sciencespo.fr
+[abdulbaari.bakpa@sciencespo.fr](mailto:abdulbaari.bakpa@sciencespo.fr)

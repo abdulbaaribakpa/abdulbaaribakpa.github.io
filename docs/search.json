@@ -4,42 +4,63 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "A PDF version of my CV is available here (upload cv.pdf to the site root to enable this link)."
+    "text": "A PDF version of my CV is available here."
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "CV",
     "section": "Education",
-    "text": "Education\n\nMA in Economics, Sciences Po, Paris — 2025–present\nBA, (your undergraduate institution and year)"
+    "text": "Education\nMRes in Economics — Sciences Po, Paris (Aug 2024 – Jun 2026) Thesis (in progress): The Price of Connection: Market Access and Forest Loss in Ghana Supervisor: Prof. Clément Imbert\nBA in Economics — Kwame Nkrumah University of Science and Technology (KNUST), Ghana (Sep 2019 – Nov 2023) Undergraduate thesis: Financial Development and Sectoral Development Supervisor: Dr. Paul Owusu Takyi"
   },
   {
     "objectID": "cv.html#research-experience",
     "href": "cv.html#research-experience",
     "title": "CV",
     "section": "Research Experience",
-    "text": "Research Experience\n\n(Add RA positions, pre-doc roles, internships)"
+    "text": "Research Experience\nResearch Assistant — Department of Economics, Sciences Po (Apr 2025 – Sept 2025)\n\nDesigned and executed causal-inference analyses using staggered Difference-in-Differences and event-study models in R to estimate the impact of forest-protection policies on climate-relevant outcomes.\nConstructed a structured, subnational policy database for Africa from systematic literature reviews, government documents, and NGO publications.\nManaged and processed large-scale geospatial datasets (WDPA, satellite-derived tree-cover loss).\nPerformed geospatial mapping and georeferencing of policy locations across African countries.\n\nResearch & Teaching Assistant — Department of Economics, KNUST (Nov 2023 – Aug 2024)\n\nCoordinated household-survey fieldwork for a willingness-to-pay study (enumerator supervision, respondent tracking, quality checks).\nCleaned and merged primary survey data with the Ghana Living Standards Survey (GLSS) for microeconometric analysis in Stata.\nCollected firm-level data on commercial water use and combined field surveys with municipal administrative records.\nLed tutorial sessions in Mathematics for Economists and supported assessment through grading and feedback.\nConducted systematic literature reviews and coordinated weekly departmental research seminars.\n\nResearch Assistant — Kumasi Hive, Kumasi (Oct 2022 – Dec 2022)\n\nDeveloped and fielded research questionnaires producing a clean dataset of 100 observations.\nPerformed data cleaning and quality checks for econometric analysis.\nBuilt a reporting framework to track key performance indicators."
   },
   {
     "objectID": "cv.html#teaching",
     "href": "cv.html#teaching",
     "title": "CV",
     "section": "Teaching",
-    "text": "Teaching\n\n(Add teaching assistantships, tutorials, etc.)"
+    "text": "Teaching\nHigh School Teacher (part-time) — One Time Educational Consult, Kumasi (Aug 2023 – Jul 2024)\n\nTaught Senior High Level Economics; designed customised lesson plans; monitored progress through regular assessments."
   },
   {
-    "objectID": "cv.html#honors-fellowships",
-    "href": "cv.html#honors-fellowships",
+    "objectID": "cv.html#community-service",
+    "href": "cv.html#community-service",
     "title": "CV",
-    "section": "Honors & Fellowships",
-    "text": "Honors & Fellowships\n\n(Awards, scholarships)"
+    "section": "Community Service",
+    "text": "Community Service\n\nUST Info Hub Facilitator (2022/2023) — advised 200+ prospective students on applications and mentored incoming students.\nLiteracy Impact Programme Mentor (Apr – Dec 2023) — led literacy tutorials for basic-school pupils.\nMomua Project (Dec 2021) — trained 20 women in soap-making and secured funding for 13 microbusinesses."
   },
   {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
+    "objectID": "cv.html#scholarships-awards",
+    "href": "cv.html#scholarships-awards",
     "title": "CV",
-    "section": "Skills",
-    "text": "Skills\n\nLanguages: English (native), French, (others)\nProgramming: R, Stata, Python, Google Earth Engine, Quarto, Git\nMethods: Panel IV, structural trade modelling, spatial analysis, remote sensing"
+    "section": "Scholarships & Awards",
+    "text": "Scholarships & Awards\n\nMastercard Foundation Scholars Program — Sciences Po (2024 – 2026)\nMastercard Foundation Scholars Program — KNUST (2019 – 2023)\nBest Student — Kanton Senior High School (2018)"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "CV",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nStatistical & Econometric Software: R, Stata, Julia, EViews\nGeospatial & Data Tools: QGIS, Google Earth Engine, Excel, Git/GitHub\nDocument Production: LaTeX, Quarto, Microsoft Office Suite, Google Workspace"
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "CV",
+    "section": "Languages",
+    "text": "Languages\n\nEnglish (fluent)\nFrench (intermediate)"
+  },
+  {
+    "objectID": "cv.html#references",
+    "href": "cv.html#references",
+    "title": "CV",
+    "section": "References",
+    "text": "References\nProf. Clément Imbert — Sciences Po, Paris — clement.imbert@sciencespo.fr\nDr. Paul Owusu Takyi — KNUST, Ghana — paul.takyi@knust.edu.gh"
   },
   {
     "objectID": "cv.html#contact",
@@ -53,49 +74,56 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "The best way to reach me is by email.\n\nAcademic: abdulbaari.bakpa@sciencespo.fr\nPersonal: abdulbaaribakpa@gmail.com\nGitHub: abdulbaaribakpa\n\nAffiliation: Department of Economics, Sciences Po, Paris."
+    "text": "The best way to reach me is by email.\n\nAcademic email: abdulbaari.bakpa@sciencespo.fr\nPersonal email: abdulbaaribakpa@gmail.com\nLinkedIn: abdul-baari-bakpa\nGitHub: abdulbaaribakpa\n\nAffiliation: Department of Economics, Sciences Po, Paris."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "(Add courses you have TA’d, with year, instructor, and institution.)"
+    "text": "Tutorial Assistant — Mathematics for Economists Department of Economics, KNUST (Nov 2023 – Aug 2024)\n\nLed weekly tutorial sessions for undergraduate students.\nSupported assessment through grading and individualised feedback.\nCoordinated weekly departmental research seminars.\n\nHigh School Economics Teacher (part-time) One Time Educational Consult, Kumasi (Aug 2023 – Jul 2024)\n\nTaught Senior High Level Economics.\nDesigned customised lesson plans tailored to students’ learning needs.\nMonitored student progress through regular assessments and adjusted teaching strategies accordingly."
   },
   {
-    "objectID": "teaching.html#teaching-assistantships",
-    "href": "teaching.html#teaching-assistantships",
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
     "title": "Teaching",
     "section": "",
-    "text": "(Add courses you have TA’d, with year, instructor, and institution.)"
+    "text": "Tutorial Assistant — Mathematics for Economists Department of Economics, KNUST (Nov 2023 – Aug 2024)\n\nLed weekly tutorial sessions for undergraduate students.\nSupported assessment through grading and individualised feedback.\nCoordinated weekly departmental research seminars.\n\nHigh School Economics Teacher (part-time) One Time Educational Consult, Kumasi (Aug 2023 – Jul 2024)\n\nTaught Senior High Level Economics.\nDesigned customised lesson plans tailored to students’ learning needs.\nMonitored student progress through regular assessments and adjusted teaching strategies accordingly."
   },
   {
-    "objectID": "teaching.html#tutorials-notes",
-    "href": "teaching.html#tutorials-notes",
+    "objectID": "teaching.html#mentoring",
+    "href": "teaching.html#mentoring",
     "title": "Teaching",
-    "section": "Tutorials & Notes",
-    "text": "Tutorials & Notes\n(Optional: post lecture notes, problem-set solutions, or short tutorials here.)\n\nThis page is a placeholder — I will update it as I take on teaching assignments."
+    "section": "Mentoring",
+    "text": "Mentoring\n\nUST Info Hub Facilitator (2022/2023) — advised 200+ prospective students on university applications.\nLiteracy Impact Programme Mentor (Apr – Dec 2023) — led literacy tutorials for basic-school pupils in Kumasi."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Job Market Paper (in progress, 2026)\nI study how improvements in domestic market access affect non-cocoa, non-mining forest loss in Ghana between 2001 and 2021. I build a structural trade model linking district-level prices to a market-access index, and identify causal effects using a recentered instrumental variable that exploits plausibly exogenous variation in transport-cost shocks.\nMethods: structural trade model, panel IV, recentered instruments, Google Earth Engine, high-resolution land-cover data.\nDraft (coming soon) · Slides · Code"
+    "text": "Sciences Po, Paris — Supervisor: Prof. Clément Imbert\nI study how improvements in domestic market access affect non-cocoa, non-mining forest loss in Ghana between 2001 and 2021. The empirical strategy combines a structural trade model that links district-level prices to a market-access index with a panel instrumental-variable approach using a recentered instrument that exploits plausibly exogenous variation in transport-cost shocks.\nMethods: structural trade modelling · panel IV with recentered instruments · Google Earth Engine · high-resolution land-cover data.\nSlides · Code"
   },
   {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
+    "objectID": "research.html#masters-thesis-in-progress",
+    "href": "research.html#masters-thesis-in-progress",
     "title": "Research",
     "section": "",
-    "text": "Job Market Paper (in progress, 2026)\nI study how improvements in domestic market access affect non-cocoa, non-mining forest loss in Ghana between 2001 and 2021. I build a structural trade model linking district-level prices to a market-access index, and identify causal effects using a recentered instrumental variable that exploits plausibly exogenous variation in transport-cost shocks.\nMethods: structural trade model, panel IV, recentered instruments, Google Earth Engine, high-resolution land-cover data.\nDraft (coming soon) · Slides · Code"
+    "text": "Sciences Po, Paris — Supervisor: Prof. Clément Imbert\nI study how improvements in domestic market access affect non-cocoa, non-mining forest loss in Ghana between 2001 and 2021. The empirical strategy combines a structural trade model that links district-level prices to a market-access index with a panel instrumental-variable approach using a recentered instrument that exploits plausibly exogenous variation in transport-cost shocks.\nMethods: structural trade modelling · panel IV with recentered instruments · Google Earth Engine · high-resolution land-cover data.\nSlides · Code"
   },
   {
-    "objectID": "research.html#work-in-progress",
-    "href": "research.html#work-in-progress",
+    "objectID": "research.html#working-submitted-papers",
+    "href": "research.html#working-submitted-papers",
     "title": "Research",
-    "section": "Work in Progress",
-    "text": "Work in Progress\n\nLong-difference and event-study evidence on the market access–deforestation link.\nComparing population data sources for spatial analysis in Ghana (GSS census vs. WorldPop vs. GPW)."
+    "section": "Working & Submitted Papers",
+    "text": "Working & Submitted Papers\n\nEnvironmental Pollution Training and Firms’ Actions: The Mediating Role of Green Industrialization Knowledge\nWith Emmanuel Orkoh, Nicholas Agyei, and Abdulrazaq Daudu — Submitted\n\n\nFinancial Development and Sectoral Growth in Ghana\nWith Kodom Emmanuel — Working paper\n\n\nThe Political Economy of Government Agricultural Input Credit: Game-Theoretic Insights from Ghana’s Planting for Food and Jobs Program\nTerm paper"
+  },
+  {
+    "objectID": "research.html#undergraduate-thesis",
+    "href": "research.html#undergraduate-thesis",
+    "title": "Research",
+    "section": "Undergraduate Thesis",
+    "text": "Undergraduate Thesis\n\nFinancial Development and Sectoral Development\nKNUST, Ghana (2023) — Supervisor: Dr. Paul Owusu Takyi"
   },
   {
     "objectID": "research.html#data-code",
@@ -109,27 +137,27 @@
     "href": "index.html",
     "title": "Abdul Baari Bakpa",
     "section": "",
-    "text": "I am a graduate student in economics at Sciences Po, Paris. My research sits at the intersection of development economics, trade, and environmental economics, with a focus on Sub-Saharan Africa.\nMy current work studies how market access shapes deforestation in Ghana, combining a structural trade model with high-resolution satellite data and a panel instrumental-variable strategy."
+    "text": "I am a graduate student in the MRes in Economics at Sciences Po, Paris, where I am supervised by Prof. Clément Imbert. I previously completed a BA in Economics at Kwame Nkrumah University of Science and Technology (KNUST) in Ghana.\nMy research sits at the intersection of development, environmental, and trade economics, with an empirical focus on Sub-Saharan Africa. I am particularly interested in how infrastructure, market integration, and policy shape land use, deforestation, and structural transformation.\nMy ongoing master’s thesis, The Price of Connection: Market Access and Forest Loss in Ghana, combines a structural trade model with high-resolution satellite data and a panel instrumental-variable strategy to estimate the causal effect of market access on non-cocoa, non-mining forest loss."
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Abdul Baari Bakpa",
     "section": "",
-    "text": "I am a graduate student in economics at Sciences Po, Paris. My research sits at the intersection of development economics, trade, and environmental economics, with a focus on Sub-Saharan Africa.\nMy current work studies how market access shapes deforestation in Ghana, combining a structural trade model with high-resolution satellite data and a panel instrumental-variable strategy."
+    "text": "I am a graduate student in the MRes in Economics at Sciences Po, Paris, where I am supervised by Prof. Clément Imbert. I previously completed a BA in Economics at Kwame Nkrumah University of Science and Technology (KNUST) in Ghana.\nMy research sits at the intersection of development, environmental, and trade economics, with an empirical focus on Sub-Saharan Africa. I am particularly interested in how infrastructure, market integration, and policy shape land use, deforestation, and structural transformation.\nMy ongoing master’s thesis, The Price of Connection: Market Access and Forest Loss in Ghana, combines a structural trade model with high-resolution satellite data and a panel instrumental-variable strategy to estimate the causal effect of market access on non-cocoa, non-mining forest loss."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Abdul Baari Bakpa",
     "section": "Research Interests",
-    "text": "Research Interests\n\nDevelopment economics\nTrade and spatial economics\nEnvironmental and natural-resource economics\nApplied econometrics & remote sensing"
+    "text": "Research Interests\n\nDevelopment economics\nEnvironmental and natural-resource economics\nTrade and spatial economics\nApplied econometrics and remote sensing"
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
     "title": "Abdul Baari Bakpa",
     "section": "News",
-    "text": "News\n\nApr 2026 — Working on the job-market version of my paper on market access and forest loss in Ghana.\n2025 — Joined the MA in Economics at Sciences Po."
+    "text": "News\n\nApr 2026 — Working on the job-market version of The Price of Connection: Market Access and Forest Loss in Ghana.\n2025 — Co-authored paper “Environmental Pollution Training and Firms’ Actions” submitted for review.\nAug 2024 — Started the MRes in Economics at Sciences Po as a Mastercard Foundation Scholar."
   }
 ]

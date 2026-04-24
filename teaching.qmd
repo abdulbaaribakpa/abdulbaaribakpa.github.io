@@ -2,14 +2,23 @@
 title: "Teaching"
 ---
 
-## Teaching Assistantships
+## Teaching Experience
 
-*(Add courses you have TA'd, with year, instructor, and institution.)*
+**Tutorial Assistant — Mathematics for Economists**
+Department of Economics, KNUST *(Nov 2023 – Aug 2024)*
 
-## Tutorials & Notes
+- Led weekly tutorial sessions for undergraduate students.
+- Supported assessment through grading and individualised feedback.
+- Coordinated weekly departmental research seminars.
 
-*(Optional: post lecture notes, problem-set solutions, or short tutorials here.)*
+**High School Economics Teacher (part-time)**
+One Time Educational Consult, Kumasi *(Aug 2023 – Jul 2024)*
 
----
+- Taught Senior High Level Economics.
+- Designed customised lesson plans tailored to students' learning needs.
+- Monitored student progress through regular assessments and adjusted teaching strategies accordingly.
 
-*This page is a placeholder — I will update it as I take on teaching assignments.*
+## Mentoring
+
+- **UST Info Hub Facilitator** *(2022/2023)* — advised 200+ prospective students on university applications.
+- **Literacy Impact Programme Mentor** *(Apr – Dec 2023)* — led literacy tutorials for basic-school pupils in Kumasi.

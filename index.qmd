@@ -8,31 +8,34 @@ about:
     - icon: envelope
       text: Email
       href: mailto:abdulbaari.bakpa@sciencespo.fr
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/abdul-baari-bakpa/
     - icon: github
       text: GitHub
       href: https://github.com/abdulbaaribakpa
-    - icon: mortarboard-fill
-      text: Google Scholar
-      href: "#"
-    - icon: linkedin
-      text: LinkedIn
-      href: "#"
+    - icon: file-earmark-pdf
+      text: CV
+      href: cv.pdf
 ---
 
 ## Welcome
 
-I am a graduate student in economics at **Sciences Po, Paris**. My research sits at the intersection of **development economics, trade, and environmental economics**, with a focus on Sub-Saharan Africa.
+I am a graduate student in the **MRes in Economics** at **Sciences Po, Paris**, where I am supervised by **Prof. Clément Imbert**. I previously completed a BA in Economics at **Kwame Nkrumah University of Science and Technology (KNUST)** in Ghana.
 
-My current work studies how **market access shapes deforestation** in Ghana, combining a structural trade model with high-resolution satellite data and a panel instrumental-variable strategy.
+My research sits at the intersection of **development, environmental, and trade economics**, with an empirical focus on Sub-Saharan Africa. I am particularly interested in how infrastructure, market integration, and policy shape land use, deforestation, and structural transformation.
+
+My ongoing master's thesis, *The Price of Connection: Market Access and Forest Loss in Ghana*, combines a structural trade model with high-resolution satellite data and a panel instrumental-variable strategy to estimate the causal effect of market access on non-cocoa, non-mining forest loss.
 
 ## Research Interests
 
 - Development economics
-- Trade and spatial economics
 - Environmental and natural-resource economics
-- Applied econometrics & remote sensing
+- Trade and spatial economics
+- Applied econometrics and remote sensing
 
 ## News
 
-- **Apr 2026** — Working on the job-market version of my paper on market access and forest loss in Ghana.
-- **2025** — Joined the MA in Economics at Sciences Po.
+- **Apr 2026** — Working on the job-market version of *The Price of Connection: Market Access and Forest Loss in Ghana*.
+- **2025** — Co-authored paper *"Environmental Pollution Training and Firms' Actions"* submitted for review.
+- **Aug 2024** — Started the MRes in Economics at Sciences Po as a Mastercard Foundation Scholar.

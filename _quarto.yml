@@ -20,6 +20,8 @@ website:
       - href: contact.qmd
         text: Contact
     right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/abdul-baari-bakpa/
       - icon: github
         href: https://github.com/abdulbaaribakpa
       - icon: envelope
