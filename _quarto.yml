@@ -7,7 +7,7 @@ website:
   description: "Abdul Baari Bakpa is an economist at Sciences Po, Paris researching development, environmental, and trade economics in Sub-Saharan Africa, with current work on market access and forest loss in Ghana."
   site-url: https://abdulbaaribakpa.github.io
   repo-url: https://github.com/abdulbaaribakpa/abdulbaaribakpa.github.io
-  image: https://github.com/abdulbaaribakpa.png
+  image: profile.jpg
   twitter-card: true
   open-graph: true
   navbar:
