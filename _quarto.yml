@@ -4,9 +4,12 @@ project:
 
 website:
   title: "Abdul Baari Bakpa"
-  description: "Personal academic website of Abdul Baari Bakpa"
+  description: "Abdul Baari Bakpa is an economist at Sciences Po, Paris researching development, environmental, and trade economics in Sub-Saharan Africa, with current work on market access and forest loss in Ghana."
   site-url: https://abdulbaaribakpa.github.io
   repo-url: https://github.com/abdulbaaribakpa/abdulbaaribakpa.github.io
+  image: https://github.com/abdulbaaribakpa.png
+  twitter-card: true
+  open-graph: true
   navbar:
     left:
       - href: index.qmd
