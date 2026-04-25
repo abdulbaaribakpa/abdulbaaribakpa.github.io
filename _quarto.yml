@@ -38,4 +38,5 @@ format:
     toc: false
     fontsize: 1.05em
     linestretch: 1.6
+    include-in-header: head-meta.html
     include-after-body: email-protect.html
