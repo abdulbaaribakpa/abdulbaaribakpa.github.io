@@ -8,16 +8,16 @@ main h3 { font-size: 1.15rem; }
 main h2 { font-size: 1.55rem; }
 </style>
 
-## Master's Thesis (in progress)
+## Master's Thesis
 
-### Market Access and Forest Loss in Ghana
+### Roads, Market Access and Forest Loss: Evidence from Ghana
 *Sciences Po, Paris — Supervisor: [Prof. Clément Imbert](https://sites.google.com/site/clemimbert/)*
 
-My ongoing master's thesis studies how road-induced changes in market access affect forest loss. The project combines a structural trade framework with satellite data, road-network travel times, and a district-year panel for Ghana from 2001 to 2021. Using an instrumental-variable strategy, I examine whether improved connectivity increases pressure to clear land or instead supports agricultural intensification on existing farmland. Preliminary results suggest that better market access reduces forest loss, partly by increasing the use of modern agricultural inputs rather than expanding cultivated area.
+This thesis studies whether road-induced improvements in market access affect forest loss in Ghana. Using digitized road upgrades, district-level forest-loss data, and a spatial trade model, I find that a 1% increase in market access lowers expected annual forest loss by about 0.38%. The evidence suggests that better connectivity shifts agricultural adjustment toward input intensification rather than land expansion.
 
 **Methods:** structural trade modelling · panel IV · Google Earth Engine · high-resolution land-cover data.
 
-[Slides](#) · [Code](https://github.com/abdulbaaribakpa)
+[BAKPA_thesis.pdf](https://github.com/abdulbaaribakpa/Master-thesis/blob/main/BAKPA_thesis.pdf) · [Code](https://github.com/abdulbaaribakpa/Master-thesis.git)
 
 ---
 
