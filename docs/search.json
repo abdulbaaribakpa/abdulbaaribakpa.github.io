@@ -1,101 +1,17 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Abdul Baari Bakpa",
     "section": "",
-    "text": "A PDF version of my CV is available here."
+    "text": "I am a Predoctoral Research Assistant to Professor Clément Imbert in the Department of Economics at Sciences Po.\nI hold an MRes in Economics from Sciences Po and a BA in Economics from Kwame Nkrumah University of Science and Technology (KNUST), Ghana.\nI am a two-time Mastercard Foundation Scholar, having received the scholarship for both my undergraduate and master’s studies.\nMy research interests lie in development economics, environmental economics, public economics, and political economy, with an empirical focus on Sub-Saharan Africa."
   },
   {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV",
-    "section": "Education",
-    "text": "Education\nMRes in Economics — Sciences Po, Paris (Aug 2024 – Jun 2026) Thesis (in progress): The Price of Connection: Market Access and Forest Loss in Ghana Supervisor: Prof. Clément Imbert\nBA in Economics — Kwame Nkrumah University of Science and Technology (KNUST), Ghana (Sep 2019 – Nov 2023) Undergraduate thesis: Financial Development and Sectoral Development Supervisor: Dr. Paul Owusu Takyi"
-  },
-  {
-    "objectID": "cv.html#research-experience",
-    "href": "cv.html#research-experience",
-    "title": "CV",
-    "section": "Research Experience",
-    "text": "Research Experience\nResearch Assistant — Department of Economics, Sciences Po (Apr 2025 – Sept 2025)\n\nDesigned and executed causal-inference analyses using staggered Difference-in-Differences and event-study models in R to estimate the impact of forest-protection policies on climate-relevant outcomes.\nConstructed a structured, subnational policy database for Africa from systematic literature reviews, government documents, and NGO publications.\nManaged and processed large-scale geospatial datasets (WDPA, satellite-derived tree-cover loss).\nPerformed geospatial mapping and georeferencing of policy locations across African countries.\n\nResearch & Teaching Assistant — Department of Economics, KNUST (Nov 2023 – Aug 2024)\n\nCoordinated household-survey fieldwork for a willingness-to-pay study (enumerator supervision, respondent tracking, quality checks).\nCleaned and merged primary survey data with the Ghana Living Standards Survey (GLSS) for microeconometric analysis in Stata.\nCollected firm-level data on commercial water use and combined field surveys with municipal administrative records.\nLed tutorial sessions in Mathematics for Economists and supported assessment through grading and feedback.\nConducted systematic literature reviews and coordinated weekly departmental research seminars.\n\nResearch Assistant — Kumasi Hive, Kumasi (Oct 2022 – Dec 2022)\n\nDeveloped and fielded research questionnaires producing a clean dataset of 100 observations.\nPerformed data cleaning and quality checks for econometric analysis.\nBuilt a reporting framework to track key performance indicators."
-  },
-  {
-    "objectID": "cv.html#teaching",
-    "href": "cv.html#teaching",
-    "title": "CV",
-    "section": "Teaching",
-    "text": "Teaching\nHigh School Teacher (part-time) — One Time Educational Consult, Kumasi (Aug 2023 – Jul 2024)\n\nTaught Senior High Level Economics; designed customised lesson plans; monitored progress through regular assessments."
-  },
-  {
-    "objectID": "cv.html#community-service",
-    "href": "cv.html#community-service",
-    "title": "CV",
-    "section": "Community Service",
-    "text": "Community Service\n\nUST Info Hub Facilitator (2022/2023) — advised 200+ prospective students on applications and mentored incoming students.\nLiteracy Impact Programme Mentor (Apr – Dec 2023) — led literacy tutorials for basic-school pupils.\nMomua Project (Dec 2021) — trained 20 women in soap-making and secured funding for 13 microbusinesses."
-  },
-  {
-    "objectID": "cv.html#scholarships-awards",
-    "href": "cv.html#scholarships-awards",
-    "title": "CV",
-    "section": "Scholarships & Awards",
-    "text": "Scholarships & Awards\n\nMastercard Foundation Scholars Program — Sciences Po (2024 – 2026)\nMastercard Foundation Scholars Program — KNUST (2019 – 2023)\nBest Student — Kanton Senior High School (2018)"
-  },
-  {
-    "objectID": "cv.html#technical-skills",
-    "href": "cv.html#technical-skills",
-    "title": "CV",
-    "section": "Technical Skills",
-    "text": "Technical Skills\n\nStatistical & Econometric Software: R, Stata, Julia, EViews\nGeospatial & Data Tools: QGIS, Google Earth Engine, Excel, Git/GitHub\nDocument Production: LaTeX, Quarto, Microsoft Office Suite, Google Workspace"
-  },
-  {
-    "objectID": "cv.html#languages",
-    "href": "cv.html#languages",
-    "title": "CV",
-    "section": "Languages",
-    "text": "Languages\n\nEnglish (fluent)\nFrench (intermediate)"
-  },
-  {
-    "objectID": "cv.html#references",
-    "href": "cv.html#references",
-    "title": "CV",
-    "section": "References",
-    "text": "References\nProf. Clément Imbert — Sciences Po, Paris — \nDr. Paul Owusu Takyi — KNUST, Ghana —"
-  },
-  {
-    "objectID": "cv.html#contact",
-    "href": "cv.html#contact",
-    "title": "CV",
-    "section": "Contact",
-    "text": "Contact"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Abdul Baari Bakpa",
     "section": "",
-    "text": "The best way to reach me is by email.\n\nAcademic email: \nPersonal email: \nLinkedIn: abdul-baari-bakpa\nGitHub: abdulbaaribakpa\n\nAffiliation: Department of Economics, Sciences Po, Paris."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Teaching Assistant — Mathematics for Economists — Department of Economics, KNUST (Nov 2023 – Aug 2024)\nHigh School Economics Teacher — One Time Educational Consult, Kumasi (Aug 2023 – Jul 2024)"
-  },
-  {
-    "objectID": "teaching.html#teaching-experience",
-    "href": "teaching.html#teaching-experience",
-    "title": "Teaching",
-    "section": "",
-    "text": "Teaching Assistant — Mathematics for Economists — Department of Economics, KNUST (Nov 2023 – Aug 2024)\nHigh School Economics Teacher — One Time Educational Consult, Kumasi (Aug 2023 – Jul 2024)"
-  },
-  {
-    "objectID": "teaching.html#mentoring",
-    "href": "teaching.html#mentoring",
-    "title": "Teaching",
-    "section": "Mentoring",
-    "text": "Mentoring\n\nUST Info Hub Facilitator (2022/2023) — advised 200+ prospective students on university applications.\nLiteracy Impact Programme Mentor (Apr – Dec 2023) — led literacy tutorials for basic-school pupils in Kumasi."
+    "text": "I am a Predoctoral Research Assistant to Professor Clément Imbert in the Department of Economics at Sciences Po.\nI hold an MRes in Economics from Sciences Po and a BA in Economics from Kwame Nkrumah University of Science and Technology (KNUST), Ghana.\nI am a two-time Mastercard Foundation Scholar, having received the scholarship for both my undergraduate and master’s studies.\nMy research interests lie in development economics, environmental economics, public economics, and political economy, with an empirical focus on Sub-Saharan Africa."
   },
   {
     "objectID": "research.html",
@@ -133,17 +49,31 @@
     "text": "Data & Code\nReplication materials for completed projects will be posted here and on my GitHub."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Abdul Baari Bakpa",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "I am a Predoctoral Research Assistant to Professor Clément Imbert in the Department of Economics at Sciences Po.\nI hold an MRes in Economics from Sciences Po and a BA in Economics from Kwame Nkrumah University of Science and Technology (KNUST), Ghana.\nI am a two-time Mastercard Foundation Scholar, having received the scholarship for both my undergraduate and master’s studies.\nMy research interests lie in development economics, environmental economics, public economics, and political economy, with an empirical focus on Sub-Saharan Africa."
+    "text": "Teaching Assistant — Mathematics for Economists — Department of Economics, KNUST (Nov 2023 – Aug 2024)\nHigh School Economics Teacher — One Time Educational Consult, Kumasi (Aug 2023 – Jul 2024)"
   },
   {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Abdul Baari Bakpa",
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching",
     "section": "",
-    "text": "I am a Predoctoral Research Assistant to Professor Clément Imbert in the Department of Economics at Sciences Po.\nI hold an MRes in Economics from Sciences Po and a BA in Economics from Kwame Nkrumah University of Science and Technology (KNUST), Ghana.\nI am a two-time Mastercard Foundation Scholar, having received the scholarship for both my undergraduate and master’s studies.\nMy research interests lie in development economics, environmental economics, public economics, and political economy, with an empirical focus on Sub-Saharan Africa."
+    "text": "Teaching Assistant — Mathematics for Economists — Department of Economics, KNUST (Nov 2023 – Aug 2024)\nHigh School Economics Teacher — One Time Educational Consult, Kumasi (Aug 2023 – Jul 2024)"
+  },
+  {
+    "objectID": "teaching.html#mentoring",
+    "href": "teaching.html#mentoring",
+    "title": "Teaching",
+    "section": "Mentoring",
+    "text": "Mentoring\n\nUST Info Hub Facilitator (2022/2023) — advised 200+ prospective students on university applications.\nLiteracy Impact Programme Mentor (Apr – Dec 2023) — led literacy tutorials for basic-school pupils in Kumasi."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "The best way to reach me is by email.\n\nAcademic email: \nPersonal email: \nLinkedIn: abdul-baari-bakpa\nGitHub: abdulbaaribakpa\n\nAffiliation: Department of Economics, Sciences Po, Paris."
   }
 ]
