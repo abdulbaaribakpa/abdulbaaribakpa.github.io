@@ -20,10 +20,10 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: writing.qmd
-        text: Writing
       - href: teaching.qmd
         text: Teaching
+      - href: writing.qmd
+        text: Others
       - href: contact.qmd
         text: Contact
     right:
