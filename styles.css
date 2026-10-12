@@ -41,3 +41,66 @@ a:hover {
 .quarto-about-trestles .about-entity .about-link {
   border: 1px solid #ddd;
 }
+
+/* Expandable sections on the Other interests page */
+.interests-lead {
+  font-size: 1.15rem;
+  margin-bottom: 1.5rem;
+}
+
+.interest-section {
+  border: 1px solid #d8e1e8;
+  border-radius: 0.6rem;
+  margin: 1rem 0;
+  overflow: hidden;
+}
+
+.interest-section summary {
+  align-items: center;
+  color: #1f4e79;
+  cursor: pointer;
+  display: flex;
+  font-family: "Source Serif Pro", Georgia, serif;
+  font-size: 1.4rem;
+  font-weight: 600;
+  justify-content: space-between;
+  list-style: none;
+  padding: 1rem 1.25rem;
+}
+
+.interest-section summary::-webkit-details-marker {
+  display: none;
+}
+
+.interest-section summary::after {
+  content: "+";
+  font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.4rem;
+  font-weight: 400;
+  margin-left: 1rem;
+}
+
+.interest-section[open] summary::after {
+  content: "−";
+}
+
+.interest-section summary:hover {
+  background: #f5f8fa;
+}
+
+.interest-section summary:focus-visible {
+  outline: 3px solid #1f4e79;
+  outline-offset: -3px;
+}
+
+.interest-section[open] summary {
+  border-bottom: 1px solid #d8e1e8;
+}
+
+.interest-section-content {
+  padding: 0.25rem 1.25rem 1rem;
+}
+
+.interest-section-content h3 {
+  margin-top: 1.25rem;
+}
