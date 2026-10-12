@@ -23,7 +23,7 @@ website:
       - href: teaching.qmd
         text: Teaching
       - href: writing.qmd
-        text: Others
+        text: Other interests
       - href: contact.qmd
         text: Contact
     right:
