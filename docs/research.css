@@ -1,0 +1,24 @@
+/* Highlight the thesis recognition without changing the rest of the research page. */
+.thesis-recognition {
+  background: #f7f5ee;
+  border-left: 4px solid #a77527;
+  color: #4b3b20;
+  font-family: "Source Serif Pro", Georgia, serif;
+  font-size: 1.08rem;
+  font-style: italic;
+  line-height: 1.5;
+  margin: 1.4rem 0;
+  padding: 0.6rem 0.9rem;
+}
+
+.thesis-recognition a {
+  color: inherit;
+  text-decoration-color: #a77527;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
+.thesis-recognition a:hover,
+.thesis-recognition a:focus-visible {
+  color: #225b81;
+}

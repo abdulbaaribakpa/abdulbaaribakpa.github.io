@@ -8,7 +8,7 @@ format:
 <p class="interests-lead">I have a wandering mind. Discover here what I am sometimes up to.</p>
 
 <details class="interest-section interest-section--statafun">
-<summary><span class="interest-section-label"><i class="bi bi-emoji-laughing" aria-hidden="true"></i>Statafun</span></summary>
+<summary><span class="interest-section-label"><svg class="stata-icon" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect class="stata-icon-bg" x="1" y="1" width="30" height="30" rx="6"/><path d="M12 7h5v5h-5zM19 7h5v5h-5zM5 14h5v5H5zM12 14h5v5h-5zM19 14h5v5h-5zM5 21h5v5H5zM12 21h5v5h-5z" fill="#fff"/></svg>Statafun</span></summary>
 <div class="interest-section-content">
 <p>Even the busiest minds need a little fun.</p>
 <p>Inspired by the Stata packages <code>motivate</code> and <code>demotivate</code>, I created <code>statafun</code> to bring a little fun to coding tasks. It offers jokes, anagrams, and riddles right inside Stata, even without an internet connection.</p>
