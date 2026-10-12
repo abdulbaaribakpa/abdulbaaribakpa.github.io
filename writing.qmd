@@ -2,7 +2,7 @@
 title: "Other interests"
 format:
   html:
-    css: [styles.css, interests.css]
+    css: [styles.css, interests.css, stata-icon.css]
 ---
 
 <p class="interests-lead">I have a wandering mind. Discover here what I am sometimes up to.</p>

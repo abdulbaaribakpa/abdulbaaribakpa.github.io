@@ -58,19 +58,6 @@
   width: 2.2rem;
 }
 
-/* A compact Stata-inspired data-grid mark, drawn here rather than reusing a third-party logo. */
-.interest-section-label .stata-icon {
-  height: 2.2rem;
-  width: 2.2rem;
-  flex: none;
-}
-
-.interest-section-label .stata-icon-bg {
-  fill: #1f608c;
-  stroke: #164b70;
-  stroke-width: 1.5;
-}
-
 .interest-section summary::-webkit-details-marker {
   display: none;
 }
