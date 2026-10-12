@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - cv.pdf
+    - .nojekyll
 
 website:
   title: "Abdul Baari Bakpa"
@@ -17,6 +20,8 @@ website:
         text: Home
       - href: research.qmd
         text: Research
+      - href: writing.qmd
+        text: Writing
       - href: teaching.qmd
         text: Teaching
       - href: contact.qmd
