@@ -49,15 +49,31 @@ a:hover {
 }
 
 .interest-section {
-  border: 1px solid #d8e1e8;
+  border: 1px solid var(--interest-border);
+  border-left: 4px solid var(--interest-accent);
   border-radius: 0.6rem;
   margin: 1rem 0;
   overflow: hidden;
 }
 
+.interest-section--statafun {
+  --interest-accent: #8c4a10;
+  --interest-border: #ead1a7;
+  --interest-tint: #fff7e8;
+  --interest-hover: #ffefd5;
+}
+
+.interest-section--news {
+  --interest-accent: #205a73;
+  --interest-border: #bddde9;
+  --interest-tint: #eff8fb;
+  --interest-hover: #e3f2f7;
+}
+
 .interest-section summary {
   align-items: center;
-  color: #1f4e79;
+  background: var(--interest-tint);
+  color: var(--interest-accent);
   cursor: pointer;
   display: flex;
   font-family: "Source Serif Pro", Georgia, serif;
@@ -66,6 +82,24 @@ a:hover {
   justify-content: space-between;
   list-style: none;
   padding: 1rem 1.25rem;
+}
+
+.interest-section-label {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.75rem;
+}
+
+.interest-section-label .bi {
+  align-items: center;
+  background: #fff;
+  border: 1px solid var(--interest-border);
+  border-radius: 50%;
+  display: inline-flex;
+  font-size: 1.1rem;
+  height: 2.2rem;
+  justify-content: center;
+  width: 2.2rem;
 }
 
 .interest-section summary::-webkit-details-marker {
@@ -85,20 +119,24 @@ a:hover {
 }
 
 .interest-section summary:hover {
-  background: #f5f8fa;
+  background: var(--interest-hover);
 }
 
 .interest-section summary:focus-visible {
-  outline: 3px solid #1f4e79;
+  outline: 3px solid var(--interest-accent);
   outline-offset: -3px;
 }
 
 .interest-section[open] summary {
-  border-bottom: 1px solid #d8e1e8;
+  border-bottom: 1px solid var(--interest-border);
 }
 
 .interest-section-content {
   padding: 0.25rem 1.25rem 1rem;
+}
+
+.interest-section-content a {
+  color: var(--interest-accent);
 }
 
 .interest-section-content h3 {
