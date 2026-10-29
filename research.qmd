@@ -20,7 +20,7 @@ This thesis studies whether road-induced improvements in market access affect fo
 
 <p class="thesis-recognition"><a href="https://www.sciencespo.fr/ecole-recherche/en/academics/masters/master-economics/best-thesis/#annee-2025-2026">One of Sciences Po's best Master's theses in Economics (2025–2026)</a></p>
 
-[BAKPA_thesis.pdf](https://github.com/abdulbaaribakpa/Master-thesis/blob/main/BAKPA_thesis.pdf) · [Code](https://github.com/abdulbaaribakpa/Master-thesis.git)
+[Thesis PDF](https://drive.google.com/open?id=1IeVlTshaveRP_RoTqySLX9tzv4CAwJCq&usp=drive_fs) · [Slides](https://drive.google.com/open?id=11oMNGgrGQY-7ITFPjMFKzjlHEDZ6-DQy&usp=drive_fs)
 
 ---
 
