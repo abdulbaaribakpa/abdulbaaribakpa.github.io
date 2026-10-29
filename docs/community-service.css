@@ -8,26 +8,29 @@
 
 .community-article + .community-article {
   border-top: 1px solid var(--interest-border);
-  margin-top: 1.75rem;
-  padding-top: 0.5rem;
+  margin-top: 1.15rem;
+  padding-top: 0.25rem;
 }
 
 .community-article__body {
   align-items: start;
   display: grid;
-  gap: 1.5rem;
-  grid-template-columns: 1fr 1.1fr;
+  gap: 1rem;
+  grid-template-columns: 1.25fr 1fr;
 }
 
 .community-article__meta {
   color: #5b665f;
-  font-size: 0.94rem;
-  margin-top: -0.5rem;
+  font-size: 0.85rem;
+  margin-top: 0;
 }
 
 .community-article__photos {
   display: grid;
-  gap: 0.65rem;
+  gap: 0.45rem;
+  justify-self: end;
+  max-width: 320px;
+  width: 100%;
 }
 
 .community-article__photos figure {
@@ -43,11 +46,15 @@
 
 .community-article__photos--portrait figure {
   margin-inline: auto;
-  max-width: 260px;
+  max-width: 200px;
 }
 
 @media (max-width: 640px) {
   .community-article__body {
     grid-template-columns: minmax(0, 1fr);
+  }
+
+  .community-article__photos {
+    justify-self: center;
   }
 }
