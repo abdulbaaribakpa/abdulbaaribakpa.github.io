@@ -1,0 +1,53 @@
+/* Community service layout on the Other interests page. */
+.interest-section--community {
+  --interest-accent: #2f624c;
+  --interest-border: #c7ddd0;
+  --interest-tint: #f0f7f2;
+  --interest-hover: #e3f0e8;
+}
+
+.community-article + .community-article {
+  border-top: 1px solid var(--interest-border);
+  margin-top: 1.75rem;
+  padding-top: 0.5rem;
+}
+
+.community-article__body {
+  align-items: start;
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: 1fr 1.1fr;
+}
+
+.community-article__meta {
+  color: #5b665f;
+  font-size: 0.94rem;
+  margin-top: -0.5rem;
+}
+
+.community-article__photos {
+  display: grid;
+  gap: 0.65rem;
+}
+
+.community-article__photos figure {
+  margin: 0;
+}
+
+.community-article__photos img {
+  border-radius: 0.4rem;
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.community-article__photos--portrait figure {
+  margin-inline: auto;
+  max-width: 260px;
+}
+
+@media (max-width: 640px) {
+  .community-article__body {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

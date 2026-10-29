@@ -2,10 +2,58 @@
 title: "Other interests"
 format:
   html:
-    css: [styles.css, interests.css, stata-icon.css]
+    css: [styles.css, interests.css, community-service.css, stata-icon.css]
 ---
 
 <p class="interests-lead">I have a wandering mind. Discover here what I am sometimes up to.</p>
+
+<details id="community-service" class="interest-section interest-section--community">
+<summary><span class="interest-section-label"><i class="bi bi-people" aria-hidden="true"></i>Community service</span></summary>
+<div class="interest-section-content">
+<article class="community-article">
+<h3>Monmua: skills training for women</h3>
+<div class="community-article__body">
+<div class="community-article__text">
+<p class="community-article__meta">Sorbelle, Sissala West District, Ghana · 2021</p>
+<p>In 2021, I worked with three fellow Mastercard Foundation Scholars to train 20 women in making household detergents. The two-week programme aimed to provide an additional source of income alongside seasonal farming.</p>
+<p>Follow-up showed that limited startup capital made it difficult for some participants to start or expand a business, highlighting the need to pair practical skills with financial support.</p>
+</div>
+<div class="community-article__photos">
+<figure><img src="images/community-service/monmua-group.jpg" alt="Monmua participants with the household products they made in Sorbelle" width="2048" height="922" loading="lazy" decoding="async"></figure>
+<figure><img src="images/community-service/monmua-training.jpg" alt="Women taking part in the Monmua detergent-making training" width="1280" height="302" loading="lazy" decoding="async"></figure>
+</div>
+</div>
+</article>
+
+<article class="community-article">
+<h3>UST Info Hub: student mentoring</h3>
+<div class="community-article__body">
+<div class="community-article__text">
+<p>I advised more than 200 prospective students on university applications, course choices, and admission requirements, and mentored 200 newly admitted students as they prepared for campus life.</p>
+<p>This included guidance on registration and housing, alongside mentorship plans pairing new students with current students to support their academic and social transition.</p>
+</div>
+<div class="community-article__photos">
+<figure><img src="images/community-service/ust-info-hub.jpg" alt="UST Info Hub poster featuring Abdul Baari Bakpa and fellow student advisers" width="1080" height="607" loading="lazy" decoding="async"></figure>
+</div>
+</div>
+</article>
+
+<article class="community-article">
+<h3>Youth Opportunities: Global Youth Ambassador</h3>
+<div class="community-article__body">
+<div class="community-article__text">
+<p>As a Global Youth Ambassador for Youth Opportunities, my work has included sharing scholarships, conferences, and competitions; supporting an online youth community; and helping organise sessions on applications and professional development.</p>
+<p>Through partnerships, events, and contributions to the Circle platform, I have helped young people find and navigate educational and career opportunities.</p>
+</div>
+<div class="community-article__photos community-article__photos--portrait">
+<figure><img src="images/community-service/youth-opportunities.jpg" alt="Youth Opportunities Global Ambassador Program 2023 poster for Abdul Baari Bakpa, Ghana" width="575" height="720" loading="lazy" decoding="async"></figure>
+</div>
+</div>
+</article>
+
+<p><a href="https://sites.google.com/view/mrbakpa/community-service">More about my community service</a></p>
+</div>
+</details>
 
 <details class="interest-section interest-section--statafun">
 <summary><span class="interest-section-label"><svg class="stata-icon" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect class="stata-icon-bg" x="1" y="1" width="30" height="30" rx="6"/><path d="M12 7h5v5h-5zM19 7h5v5h-5zM5 14h5v5H5zM12 14h5v5h-5zM19 14h5v5h-5zM5 21h5v5H5zM12 21h5v5h-5z" fill="#fff"/></svg>Statafun</span></summary>
